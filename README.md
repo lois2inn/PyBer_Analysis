@@ -26,7 +26,10 @@
 - Statistics 1.0.3.5
 
 ## Results
-If we compare the average number of rides between each city type, we'll notice that 
+When we compare the average number of rides between each city type, we'll notice that 
 - The average number of rides in the rural cities is about 3.5 and 2.5 times lower than urban and suburban cities, respectively.
 - The average fare price is higher in rural cities followed by suburban cities.
-- The number of drivers in urban cities is more than suburban cities and rural cities.
+- the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively.
+- There is one outlier in the urban ride count data. The urban city, West Angela, has the highest rider count. 
+- From the combined box-and-whisker plots, we see that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively. 
+- The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively. 
