@@ -18,9 +18,11 @@
   - The percent of total drivers.
 
 ## Resources
-Anaconda3_2022.05
-Conda 4.14.0
-Python 3.7.10
-Matplotlib 3.5.1
+- Anaconda3_2022.05
+- Conda 4.14.0
+- Python 3.7.10
+- Matplotlib 3.5.1
+- Numpy 1.21.5
+- Statistics 1.0.3.5
 
 ## Results
