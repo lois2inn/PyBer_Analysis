@@ -22,7 +22,7 @@ A data analyst for a ride sharing company was asked to perform exploratory analy
 - Matplotlib 3.5.1
 - Numpy 1.21.5
 
-## Results
+## PyBer Results
 
 The following were the observations noted from comparing ride-sharing data among three types of cities:
 <img src = "analysis/Summary_dataFrame.png" width=700 />
@@ -41,12 +41,12 @@ The following were the observations noted from comparing ride-sharing data among
 - The trends show similar peak times for all three city types.
 - The end of February 2019 showed a peak in total fares among urban, suburban, and rural cities.
 
-## Summary
+## PyBer Summary
 
-Based on the summary and trends gathered above, here are some business recommendations to Pyber for addressing disparities among the city types:
-- The summary data showed that the total revenue of a city type relied on the number of rides and number of drivers. The more the rides and drivers, more  the revenue for that city type. With this in consideration, Pyber should increase the number of drivers serving rural cities.
-- The costs for using Pyber services is more among riders in rural areas than urban areas. This could discourage riders from using Pyber given the higher average fare per ride.  Pyber should consolidate their ride fares in rural cities accordingly.
-- The drivers in urban cities earn less than those in rural cities. This could discourage potential drivers from working with Pyber given the low average fare per driver. Pyber should consolidate their driver fares in urban cities accordingly.  
+Based on the summary and trends gathered above, here are some business recommendations to PyBer for addressing disparities among the city types:
+- The summary data showed that the total revenue of a city type relied on the number of rides and number of drivers. The more the rides and drivers, more  the revenue for that city type. With this in consideration, PyBer should increase the number of drivers serving rural cities.
+- The costs for using PyBer services is more among riders in rural areas than urban areas. This could discourage riders from using PyBer given the higher average fare per ride.  PyBer should consolidate their ride fares in rural cities accordingly.
+- The drivers in urban cities earn less than those in rural cities. This could discourage potential drivers from working with PyBer given the low average fare per driver. PyBer should consolidate their driver fares in urban cities accordingly.  
 
-The high average fare per ride in rural cities and low average fare per driver in urban cities present an opportunity for further analyze and determine other factors that are contributing to this scenario, thereby giving Pyber a better reason to adjust their fares for rural and urban cities.
+The high average fare per ride in rural cities and low average fare per driver in urban cities present an opportunity for further analyze and determine other factors that are contributing to this scenario, thereby giving PyBer a better reason to adjust their fares for rural and urban cities.
 
